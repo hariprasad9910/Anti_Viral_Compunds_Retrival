@@ -4,6 +4,12 @@
 This script automates the downloading of `.mol` molecule files from URLs listed in `.txt` files.
 It supports multithreaded downloads, retries, polite delays, logging, and summary reporting.
 """
+Key Features
+-Multithreaded downloading for better performance
+-Robust error handling with retry mechanism
+-Progress tracking with tqdm progress bar
+-Detailed logging to file and console
+-Summary report generation
 
 # -------------------- IMPORT LIBRARIES --------------------
 import os
