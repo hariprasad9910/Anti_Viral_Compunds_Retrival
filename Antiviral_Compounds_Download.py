@@ -10,6 +10,9 @@ Key Features
 -Progress tracking with tqdm progress bar
 -Detailed logging to file and console
 -Summary report generation
+
+Author: Hariprasad T
+Date: 10-10-2024
 """
 
 # -------------------- IMPORT LIBRARIES --------------------
