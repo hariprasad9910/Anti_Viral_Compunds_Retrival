@@ -11,8 +11,6 @@ Key Features
 -Detailed logging to file and console
 -Summary report generation
 
-Author: Hariprasad T
-Date: 10-10-2024
 """
 
 # -------------------- IMPORT LIBRARIES --------------------
@@ -200,3 +198,8 @@ if __name__ == "__main__":
     main()
     elapsed_time = time.time() - start_time
     logging.info(f"Script execution completed in {elapsed_time:.2f} seconds")
+
+
+
+#Author: Hariprasad T
+#Date: 10-10-2024
